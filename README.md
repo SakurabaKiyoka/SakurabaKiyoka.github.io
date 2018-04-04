@@ -1,6 +1,6 @@
 <html>
-  <head)
-         <title)Not found</title>
+  <head>
+         <title>Not found</title>
          </head>
 <body>桜庭清夏のホームページ
 でもこちらが何もない...
